@@ -1,4 +1,3 @@
-AudioControl-Mute
-=================
+Silent Mode Toggle Application
 
-Android Audio Manager Functions to Establish Our Apps
+This application is used to change the Android Device Audio Manager Functions, like silent or Normal mode.
